@@ -1,3 +1,3 @@
-usuario = "Isaias"
+datos = "Isaias"
 
-print(f"bienvenido {usuario} ")
+print(f"bienvenido {datos} ")
